@@ -97,6 +97,7 @@
 		BBA12BB51D9BCD27000E8283 /* MFZB */ = {
 			isa = PBXGroup;
 			children = (
+				BBA12BE41D9BCE21000E8283 /* Classes */,
 				BBA12BB61D9BCD27000E8283 /* AppDelegate.swift */,
 				BBA12BB81D9BCD27000E8283 /* ViewController.swift */,
 				BBA12BBA1D9BCD27000E8283 /* Main.storyboard */,
@@ -123,6 +124,13 @@
 				BBA12BD81D9BCD27000E8283 /* Info.plist */,
 			);
 			path = MFZBUITests;
+			sourceTree = "<group>";
+		};
+		BBA12BE41D9BCE21000E8283 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -488,6 +496,7 @@
 				BBA12BDD1D9BCD27000E8283 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBA12BDE1D9BCD27000E8283 /* Build configuration list for PBXNativeTarget "MFZBTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +505,7 @@
 				BBA12BE01D9BCD27000E8283 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBA12BE11D9BCD27000E8283 /* Build configuration list for PBXNativeTarget "MFZBUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +514,7 @@
 				BBA12BE31D9BCD27000E8283 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
